@@ -38,3 +38,5 @@ class Song
     end
     genre_hash
   end
+  
+end
